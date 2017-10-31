@@ -1,0 +1,531 @@
+Cmp-Mod V01 Created by PcbNew   date = 7/31/2017 6:58:12 PM
+
+BeginCmp
+TimeStamp = 596D4A4E
+Path = /5972D538
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4B0B
+Path = /5970F886/59743339
+Reference = U6;
+ValeurCmp = ULN2803A;
+IdModule  = Housings_DIP:DIP-18_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4B21
+Path = /5970F886/59749F5A/5974AF7F
+Reference = U7;
+ValeurCmp = ULN2803A;
+IdModule  = Housings_DIP:DIP-18_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A97
+Path = /5970F664
+Reference = U1;
+ValeurCmp = 7805;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D48C2
+Path = /5970F67C
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D48C8
+Path = /5970F77D
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D48CE
+Path = /5970F682
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4912
+Path = /5970F69A
+Reference = J6;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D491A
+Path = /5970F76A
+Reference = J7;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4929
+Path = /5970F770
+Reference = J9;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4931
+Path = /5970F886/59743559
+Reference = J10;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4939
+Path = /5970F886/5974355F
+Reference = J11;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4941
+Path = /5970F886/59743565
+Reference = J12;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4950
+Path = /5970F886/59746A51
+Reference = J14;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4958
+Path = /5970F886/59746A58
+Reference = J15;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4967
+Path = /5970F886/597432E3
+Reference = J17;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D496F
+Path = /5970F886/597432EF
+Reference = J18;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D497E
+Path = /5970F886/597432F6
+Reference = J20;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4986
+Path = /5970F886/59749F5A/5974AF40
+Reference = J21;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D498E
+Path = /5970F886/59749F5A/5974AF47
+Reference = J22;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4996
+Path = /5970F886/59749F5A/5974AF4E
+Reference = J23;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D49A5
+Path = /5970F886/59749F5A/5974AF91
+Reference = J25;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D49B4
+Path = /5970F886/59749F5A/5974AF9F
+Reference = J27;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D49BC
+Path = /5970F886/59749F5A/5974AED7
+Reference = J28;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D49C4
+Path = /5970F886/59749F5A/5974AEE3
+Reference = J29;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D49D3
+Path = /5970F886/59749F5A/5974AEEA
+Reference = J31;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D49DB
+Path = /5970F886/59749F5A/5974BA02/5975238F
+Reference = J32;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D49E3
+Path = /5970F886/59749F5A/5974BA02/59752396
+Reference = J33;
+ValeurCmp = CONN_01X04_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D49F9
+Path = /5972E5A1
+Reference = Q1;
+ValeurCmp = Q_PMOS_GDS;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A00
+Path = /5972E589
+Reference = Q2;
+ValeurCmp = Q_PMOS_GDS;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A07
+Path = /5972D531
+Reference = Q3;
+ValeurCmp = Q_PMOS_GDS;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A0E
+Path = /5972D519
+Reference = Q4;
+ValeurCmp = Q_PMOS_GDS;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A15
+Path = /5972BE58
+Reference = Q5;
+ValeurCmp = Q_PMOS_GDS;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A1C
+Path = /5972BE40
+Reference = Q6;
+ValeurCmp = Q_PMOS_GDS;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A23
+Path = /5970F6BB
+Reference = Q7;
+ValeurCmp = Q_PMOS_GDS;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A2A
+Path = /5970F670
+Reference = Q8;
+ValeurCmp = Q_PMOS_GDS;
+IdModule  = Power_Integrations:TO-220;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A30
+Path = /5970F7A7
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A3C
+Path = /5972E599
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A48
+Path = /5972E583
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A54
+Path = /5972D529
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A60
+Path = /5972D513
+Reference = R9;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A6C
+Path = /5972BE50
+Reference = R11;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A78
+Path = /5972BE3A
+Reference = R13;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A84
+Path = /5970F6C7
+Reference = R15;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A90
+Path = /5970F68E
+Reference = R17;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4AB3
+Path = /5970F66A
+Reference = U2;
+ValeurCmp = MAX7219;
+IdModule  = Housings_DIP:DIP-24_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4AC9
+Path = /5970F676
+Reference = U3;
+ValeurCmp = ULN2803A;
+IdModule  = Housings_DIP:DIP-18_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4ADF
+Path = /5970F886/59743596
+Reference = U4;
+ValeurCmp = ULN2803A;
+IdModule  = Housings_DIP:DIP-18_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4AF5
+Path = /5970F886/59746A91
+Reference = U5;
+ValeurCmp = ULN2803A;
+IdModule  = Housings_DIP:DIP-18_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4B37
+Path = /5970F886/59749F5A/5974AFD1
+Reference = U8;
+ValeurCmp = ULN2803A;
+IdModule  = Housings_DIP:DIP-18_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4B4D
+Path = /5970F886/59749F5A/5974AF2C
+Reference = U9;
+ValeurCmp = ULN2803A;
+IdModule  = Housings_DIP:DIP-18_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4B63
+Path = /5970F886/59749F5A/5974BA02/597523CE
+Reference = U10;
+ValeurCmp = ULN2803A;
+IdModule  = Housings_DIP:DIP-18_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D517C
+Path = 
+Reference = REF**;
+ValeurCmp = Arduino_UNO_R3_WithMountingHoles;
+IdModule  = Modules:Arduino_UNO_R3_WithMountingHoles;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D49F2
+Path = /5970F886/59749F5A/5974BA02/596E2187
+Reference = J35;
+ValeurCmp = CONN_01X01_FEMALE;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x01_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D912C
+Path = 
+Reference = REF**;
+ValeurCmp = Pin_Header_Straight_1x08_Pitch2.54mm;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D9170
+Path = 
+Reference = REF**;
+ValeurCmp = Pin_Header_Straight_1x06_Pitch2.54mm;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D490A
+Path = /5970F874
+Reference = J5;
+ValeurCmp = CONN_01X08;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D48FE
+Path = /5970F86E
+Reference = J4;
+ValeurCmp = CONN_01X10;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x10_Pitch2.54mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 597CF41E
+Path = /5970F795
+Reference = J1;
+ValeurCmp = Screw_Terminal_1x02;
+IdModule  = KiCAD:TerminalBlock_Philmore_TB132_02x5mm_Straight_power;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A5A
+Path = /5972D50C
+Reference = R8;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A66
+Path = /5972BE5F
+Reference = R10;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A42
+Path = /5972E57C
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A8A
+Path = /5970F688
+Reference = R16;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A7E
+Path = /5970F6C1
+Reference = R14;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A72
+Path = /5972BE33
+Reference = R12;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 596D4A36
+Path = /5972E5A8
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;
+EndCmp
+
+EndListe
