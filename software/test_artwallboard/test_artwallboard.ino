@@ -20,33 +20,34 @@ int load = 13;
 int clk = 12;
 
 LedControl lc=LedControl(data,clk,load,1);
-String inputString = "";
-boolean stringComplete = false;
 int rowMax = 8;
 
 void setup()
 {
   Serial.begin(115200);
-  inputString.reserve(200);
   lc.shutdown(0,false);
   lc.setIntensity(0,intensity);
   lc.clearDisplay(0);
-  lc.shutdown(1,false);
-  lc.setIntensity(1,intensity);
-  lc.clearDisplay(1);
+
 }
 
+byte rowdata=0;
 
 void loop()
 {
-  byte rowdata=0;
+  unsigned long 
   //lc.setIntensity(0, random(0,16));
-  for (int row=0; row < rowMax; row++) {
-    //rowdata = random(0,256);
     rowdata = 255-rowdata;
-    lc.setRow(0,  row, rowdata);
     Serial.println(rowdata,HEX);
-    delay(200);
+  for ( int color=0; color<8; color++) {
+    
   }
-  //lc.clearDisplay(0);
+  for (int row=0; row < rowMax; row++) {
+    rowdata = random(0,256);
+    lc.setRow(0,  row, rowdata);
+   }
+    delay(400);
+    
+//    lc.clearDisplay(0);
+//    delay(400);
 }

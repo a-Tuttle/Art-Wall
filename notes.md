@@ -1,7 +1,7 @@
 max7219
 
 64 channel using 8x8 multiplexing
-16 level pwm
+16 level pwm for entire board (intensity)
 500ma per channel
 
 SPI interface using arduino
@@ -45,3 +45,10 @@ light:
     
 pi:
 * sends config data to arduino for the groups controlled by that arduino
+
+
+arduino commands:
+x is hexadecimal digit (0..F)
+i<d>; - set intensity - decimal
+s<x16>; - set board bits x16 is 64 bits 
+d<int>; - set delay in milliseconds decimal
